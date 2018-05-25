@@ -22,6 +22,9 @@ const deploy = async () => {
 
 };
 deploy();
+// every time you deploy, 
+// update the address and ABI in lottery-react/lottery.js
+// to ensure front-end is connunicating to the current contract 
 
 
 
